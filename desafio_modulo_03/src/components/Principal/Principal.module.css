@@ -18,9 +18,12 @@
 }
 .img {
     display: flex;
+    list-style: none;
+    
 }
 img {
     width: 40vh;
+    
 }
 h3 {
         font-family: 'Rubik', sans-serif;
